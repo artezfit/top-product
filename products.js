@@ -12,6 +12,7 @@ const products = [
   {
     name: "Мясные чипсы JerFood",
     category: "Мясные",
+    description: "Ну ооочень вкусные кусочки филе в соусе Терияки",
     image: "https://imgproxy.kuper.ru/imgproxy/size-500-500/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzQwMjY4NDI3L29yaWdpbmFsLzIvMjAyNC0xMS0yNiUyMDE1JTNBMTMlM0E1Ni44MTg0NzklMkIwMCUzQTAwLzQwMjY4NDI3XzIuanBn.jpg",
     proteins: 50,
     fats: 3.5,
