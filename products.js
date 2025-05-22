@@ -21,10 +21,18 @@ const products = [
     name: "Сыр Легкий 20% (Молочный мир)",
     category: "Сыры",
     image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/3223/02063223/norm/02063223.n_1.png",
-    name: "Мясные чипсы JerFood",
     proteins: 29,
     fats: 9,
     carbs: 0,
     calories: 197
+  },
+    {
+    name: "Сыр Легкий 35% (Брест-Литовск)",
+    category: "Сыры",
+    image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/1983/00761983/norm/00761983.n_1.png",
+    proteins: 31.2,
+    fats: 18.2,
+    carbs: 0,
+    calories: 288.6
   },
 ];
