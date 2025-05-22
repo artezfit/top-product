@@ -4,9 +4,9 @@ function createCard(product) {
       <img src="${product.image}" alt="${product.name}">
       <div class="card-body">
         <h3>${product.name}</h3>
-        <p>Белки: ${product.proteins} г</p>
-        <p>Жиры: ${product.fats} г</p>
-        <p>Углеводы: ${product.carbs} г</p>
+        <p>Белки: ${product.proteins}</p>
+        <p>Жиры: ${product.fats}</p>
+        <p>Углеводы: ${product.carbs}</p>
         <p>Ккал: ${product.calories}</p>
       </div>
     </div>
