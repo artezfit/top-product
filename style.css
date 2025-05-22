@@ -58,3 +58,9 @@ select {
   margin: 5px 0;
   font-size: 14px;
 }
+
+.description {
+  font-style: italic;
+  color: #555;
+  margin-bottom: 0.5em;
+}
