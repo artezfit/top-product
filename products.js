@@ -203,7 +203,7 @@ calories: 108
 name: "Сосиски Мясные из индейки (Островецкое)",
 category: "Мясные",
 image: "https://www.tablicakalorijnosti.ru/file/image/foodstuff/2a352a4fab9d4a6095c9fb87098db072/ac2bdc857c114503863dc6f70444e45f",
-description: "Найти можно в Грине, Гиппо и фирменном магазине "Индюшонок"",
+description: "Найти можно в Грине, Гиппо и фирменном магазине Индюшонок",
 proteins: 10,
 fats: 5,
 carbs: 1,
