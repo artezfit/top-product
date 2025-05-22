@@ -5,9 +5,9 @@ function createCard(product) {
       <div class="card-body">
         <h3>${product.name}</h3>
         <div class="nutrients">
-          <div class="nutrient protein">Белки: ${product.proteins} г</div>
-          <div class="nutrient fat">Жиры: ${product.fats} г</div>
-          <div class="nutrient carbs">Углеводы: ${product.carbs} г</div>
+          <div class="nutrient protein">Белки: ${product.proteins}</div>
+          <div class="nutrient fat">Жиры: ${product.fats}</div>
+          <div class="nutrient carbs">Углеводы: ${product.carbs}</div>
         </div>
         <div class="calories">Калории: ${product.calories}</div>
       </div>
