@@ -19,11 +19,9 @@ const products = [
   },
   {
     name: "Сыр Легкий 20% (Молочный мир)",
-    category: "Мясные",
-    image: "{
-    name: "Мясные чипсы JerFood",
     category: "Сыры",
-    image: "https://imgproxy.kuper.ru/imgproxy/size-500-500/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzQwMjY4NDI3L29yaWdpbmFsLzIvMjAyNC0xMS0yNiUyMDE1JTNBMTMlM0E1Ni44MTg0NzklMkIwMCUzQTAwLzQwMjY4NDI3XzIuanBn.jpg",
+    image: "{https://cdn.ime.by/UserFiles/images/catalog/Goods/3223/02063223/norm/02063223.n_1.png",
+    name: "Мясные чипсы JerFood",
     proteins: 29,
     fats: 9,
     carbs: 0,
