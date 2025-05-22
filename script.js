@@ -22,6 +22,7 @@ function createCard(product) {
           <div>Калории</div>
           <div>${product.calories}</div>
         </div>
+        ${product.description ? `<div class="description">${product.description}</div>` : ""}
       </div>
     </div>
   `;
