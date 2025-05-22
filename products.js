@@ -9,57 +9,12 @@ const products = [
     calories: 330
   },
   {
-    name: "Говядина",
+    name: "Мясные чипсы JerFood",
     category: "Мясные",
-    image: "https://www.pngmart.com/files/5/Raw-Beef-Steak-PNG-Image.png",
-    proteins: 20,
-    fats: 10,
-    carbs: 0,
-    calories: 170
+    image: "https://imgproxy.kuper.ru/imgproxy/size-500-500/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzQwMjY4NDI3L29yaWdpbmFsLzIvMjAyNC0xMS0yNiUyMDE1JTNBMTMlM0E1Ni44MTg0NzklMkIwMCUzQTAwLzQwMjY4NDI3XzIuanBn.jpg",
+    proteins: 50,
+    fats: 3.5,
+    carbs: 2.6,
+    calories: 242
   },
-  {
-    name: "Филе трески",
-    category: "Рыба",
-    image: "https://www.pngmart.com/files/22/Fish-Meat-PNG-Isolated-Pic.png",
-    proteins: 18,
-    fats: 1,
-    carbs: 0,
-    calories: 82
-  },
-  {
-    name: "Сёмга",
-    category: "Рыба",
-    image: "https://www.pngmart.com/files/22/Salmon-Fish-PNG-File.png",
-    proteins: 20,
-    fats: 13,
-    carbs: 0,
-    calories: 208
-  },
-  {
-    name: "Творог 5%",
-    category: "Молочные",
-    image: "https://www.pngmart.com/files/21/Cottage-Cheese-PNG-Isolated-Photos.png",
-    proteins: 17,
-    fats: 5,
-    carbs: 3,
-    calories: 121
-  },
-  {
-    name: "Яйца куриные",
-    category: "Молочные",
-    image: "https://www.pngmart.com/files/1/Egg-PNG-Image.png",
-    proteins: 13,
-    fats: 11,
-    carbs: 1,
-    calories: 155
-  },
-  {
-    name: "Сыр Пармезан",
-    category: "Молочные",
-    image: "https://www.pngmart.com/files/21/Parmesan-Cheese-PNG-Image.png",
-    proteins: 35,
-    fats: 25,
-    carbs: 0,
-    calories: 392
-  }
 ];
