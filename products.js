@@ -12,8 +12,8 @@ const products = [
   {
     name: "Мясные чипсы JerFood",
     category: "Мясные",
-    description: "Ну ооочень вкусные кусочки филе в соусе Терияки",
     image: "https://imgproxy.kuper.ru/imgproxy/size-500-500/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzQwMjY4NDI3L29yaWdpbmFsLzIvMjAyNC0xMS0yNiUyMDE1JTNBMTMlM0E1Ni44MTg0NzklMkIwMCUzQTAwLzQwMjY4NDI3XzIuanBn.jpg",
+    description: "Ну ооочень вкусные кусочки филе в соусе Терияки",
     proteins: 50,
     fats: 3.5,
     carbs: 2.6,
@@ -162,6 +162,16 @@ proteins: 30,
 fats: 12.9,
 carbs: 9.6,
 calories: 347
+},
+{
+name: "Кокосовый батончик Fitness Shock",
+category: "Вкусняшки",
+image: "https://main-cdn.sbermegamarket.ru/big1/hlr-system/-11/474/490/414/101/822/100032055685b0.jpg",
+description: "Вкусный, но не белковый, на вкус 100% как баунти",
+proteins: 3,
+fats: 15,
+carbs: 3.5,
+calories: 200
 },
 {
 name: "Медальоны из тунца",
