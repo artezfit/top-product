@@ -1,12 +1,12 @@
 const products = [
   {
-    name: "Куриная грудка",
+    name: "Мясные чипсы (Галерея вкуса)",
     category: "Мясные",
-    image: "https://www.pngmart.com/files/5/Chicken-Breast-PNG-Transparent-Image.png",
-    proteins: 23,
-    fats: 2,
+    image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/1966/00871966/norm/00871966.n_1.png",
+    proteins: 55,
+    fats: 12,
     carbs: 0,
-    calories: 110
+    calories: 330
   },
   {
     name: "Говядина",
