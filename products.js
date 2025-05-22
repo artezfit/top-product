@@ -208,4 +208,40 @@ fats: 5.2,
 carbs: 25.1,
 calories: 199.6
 },
+{
+name: "Хлеб белковый Славянка",
+category: "Хлебобулочные",
+image: "https://www.minskhleb.by/upload/resize_cache/iblock/f37/800_600_140cd750bba9870f18aada2478b24840a/f37e6473f0bde15151f1c74947524358.jpg",
+proteins: 18,
+fats: 2.5,
+carbs: 39,
+calories: 250
+},
+{
+name: "Хлеб белковый отрубной",
+category: "Хлебобулочные",
+image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/1151/01531151/norm/01531151.n_1.png",
+proteins: 15.6,
+fats: 1.3,
+carbs: 30.4,
+calories: 196
+},
+{
+name: "Хлеб Фитнес плюс ржаной",
+category: "Хлебобулочные",
+image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/6950/01176950/norm/01176950.n_1.png",
+proteins: 6.5,
+fats: 1.6,
+carbs: 45.7,
+calories: 225
+},
+{
+name: "Йогурт греческий 2% (Teos)",
+category: "Молочные",
+image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/4049/00654049/norm/00654049.n_1.png",
+proteins: 7,
+fats: 2,
+carbs: 4.2,
+calories: 62.8
+},
 ];
