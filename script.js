@@ -7,15 +7,15 @@ function createCard(product) {
         <div class="nutrients">
           <div class="nutrient protein">
             <div>Белки</div>
-            <div>${product.proteins} г</div>
+            <div>${product.proteins}</div>
           </div>
           <div class="nutrient fat">
             <div>Жиры</div>
-            <div>${product.fats} г</div>
+            <div>${product.fats}</div>
           </div>
           <div class="nutrient carbs">
             <div>Углеводы</div>
-            <div>${product.carbs} г</div>
+            <div>${product.carbs}</div>
           </div>
         </div>
         <div class="nutrient calories">
