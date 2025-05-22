@@ -3,6 +3,7 @@ const products = [
     name: "Мясные чипсы (Галерея вкуса)",
     category: "Мясные",
     image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/1966/00871966/norm/00871966.n_1.png",
+    description: "Полезный и вкусный перекус",
     proteins: 55,
     fats: 12,
     carbs: 0,
