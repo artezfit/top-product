@@ -40,23 +40,21 @@ const products = [
   {
 name: "Колбаса Никольская (Славянские продукты)",
 category: "Мясные",
-image: "[https://cdn.ime.by/UserFiles/images/catalog/Goods/7327/02117327/norm/02117327.n_2.png](https://cdn.ime.by/UserFiles/images/catalog/Goods/7327/02117327/norm/02117327.n_2.png?s=1000x1000)",
+image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/7327/02117327/norm/02117327.n_2.png",
 proteins: 40,
 fats: 5,
 carbs: 0,
 calories: 204
 },
-
 {
 name: "Колбаса Милано (Петруха)",
 category: "Мясные",
-image: "[https://cdn.ime.by/UserFiles/images/catalog/Goods/7629/00837629/norm/00837629.n_1.png](https://cdn.ime.by/UserFiles/images/catalog/Goods/7629/00837629/norm/00837629.n_1.png.webp?s=1000x1000)",
+image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/7629/00837629/norm/00837629.n_1.png",
 proteins: 34,
 fats: 10,
 carbs: 0,
 calories: 230
 },
-
 {
 name: "Ветчина куриная (Natura)",
 category: "Мясные",
@@ -66,17 +64,15 @@ fats: 4,
 carbs: 2,
 calories: 116
 },
-
 {
 name: "Говядина Кремлевская",
 category: "Мясные",
-image: "https://www.tablicakalorijnosti.ru/file/image/foodstuff/7801664c83554acbb7afca4d0ed0c81c/c572262c8e1d4aed9d8ce2ddc5736704",
+image: "https://komvak.by/upload/iblock/d86/pv0wi10u1mjy3prve5j0i2pwoqq93n9z.png",
 proteins: 32,
 fats: 8,
 carbs: 0,
 calories: 200
 },
-
 {
 name: "Рулет Филейный (Бретский мясокомбинат)",
 category: "Мясные",
@@ -86,17 +82,15 @@ fats: 3,
 carbs: 0,
 calories: 100
 },
-
 {
 name: "Мягкий творог 0,1% (Савушкин)",
 category: "Молочные",
-image: "[https://img.vkusvill.ru/pim/images/site_LargeWebP/4f19b665-ce9a-4348-9fc5-d901338fdf81.webp](https://img.vkusvill.ru/pim/images/site_LargeWebP/4f19b665-ce9a-4348-9fc5-d901338fdf81.webp?1740729618.008)",
+image: "https://img.vkusvill.ru/pim/images/site_LargeWebP/4f19b665-ce9a-4348-9fc5-d901338fdf81.webp",
 proteins: 10,
 fats: 0.1,
 carbs: 1,
 calories: 44.9
 },
-
 {
 name: "Exponenta High-Pro",
 category: "Молочные",
@@ -106,7 +100,6 @@ fats: 0,
 carbs: 2.5,
 calories: 60
 },
-
 {
 name: "Exponenta Bio-Skyr",
 category: "Молочные",
@@ -116,7 +109,6 @@ fats: 0,
 carbs: 3,
 calories: 36
 },
-
 {
 name: "Exponenta Кефирная",
 category: "Молочные",
@@ -126,7 +118,6 @@ fats: 0,
 carbs: 4.5,
 calories: 38
 },
-
 {
 name: "Топпинги без сахара (Fit Active)",
 category: "Вкусняшки",
@@ -136,7 +127,6 @@ fats: 0.1,
 carbs: 4,
 calories: 40
 },
-
 {
 name: "Заменитель сахара Стевия (таблетки, NOVASWEET)",
 category: "Сахзамы",
@@ -146,7 +136,6 @@ fats: 0,
 carbs: 0,
 calories: 0
 },
-
 {
 name: "Хлебцы с белым шоколадом (Тонкий стиль)",
 category: "Вкусняшки",
@@ -156,17 +145,15 @@ fats: 18,
 carbs: 63,
 calories: 440
 },
-
 {
 name: "Протеиновые батончики Biovin",
 category: "Вкусняшки",
-image: "https://basket-01.wbbasket.ru/vol140/part14063/14063373/images/big/1.webp",
+image: "https://www.tablicakalorijnosti.ru/file/image/foodstuff/940d6aaf342947f88511d214075d1e27/ad0cc5b9f5d243818c0f7f5990512c90",
 proteins: 32,
 fats: 13,
 carbs: 14,
 calories: 360
 },
-
 {
 name: "Протеиновые батончики Fitness Shock",
 category: "Вкусняшки",
@@ -176,7 +163,6 @@ fats: 12.9,
 carbs: 9.6,
 calories: 347
 },
-
 {
 name: "Медальоны из тунца",
 category: "Мясные",
@@ -186,7 +172,6 @@ fats: 1,
 carbs: 0,
 calories: 108
 },
-
 {
 name: "Сосиски Мясные из индейки (Островецкое)",
 category: "Мясные",
@@ -196,7 +181,6 @@ fats: 5,
 carbs: 1,
 calories: 89
 },
-
 {
 name: "Сырок глазированный 5% (Молочная страна)",
 category: "Вкусняшки",
@@ -206,7 +190,6 @@ fats: 10,
 carbs: 31.6,
 calories: 270
 },
-
 {
 name: "Пельмени Марьино с курицей",
 category: "Мясные",
@@ -216,7 +199,6 @@ fats: 3.4,
 carbs: 22,
 calories: 167
 },
-
 {
 name: "Пельмени Тимка (Добровский)",
 category: "Мясные",
