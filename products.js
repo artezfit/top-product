@@ -308,4 +308,14 @@ fats: 2,
 carbs: 4.2,
 calories: 62.8
 },
+{
+name: "Витамин D",
+category: "Витамины",
+image: "https://bodyroom.by/files/resized/products/rus_pl_ostrovit-vitamin-d3-k2-90-tabletok-16704_1.800x600w.png",
+description: "Малая дозировка, поэтому рекомендую всем, хотя в идеале, конечно, сдать анализ. Вообще, в Беларуси почти у всех недостаток витамина D. Найдете на вб/озоне по фото",
+proteins: 0,
+fats: 0,
+carbs: 0,
+calories: 0
+},
 ];
