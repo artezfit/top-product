@@ -29,7 +29,7 @@ const products = [
     carbs: 0,
     calories: 197
   },
-    {
+  {
     name: "Сыр Легкий 35% (Брест-Литовск)",
     category: "Сыры",
     image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/1983/00761983/norm/00761983.n_1.png",
@@ -99,7 +99,7 @@ fats: 4,
 carbs: 0,
 calories: 120
 },
-{,
+{
 name: "Деликатес от бабушки (Ганна)",
 category: "Мясные",
 image: "https://i2022.otzovik.com/2022/09/01/13747927/img/2139635_72285007.jpeg",
