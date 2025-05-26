@@ -89,6 +89,7 @@ fats: 3,
 carbs: 0,
 calories: 100
 },
+{
 name: "Грудка Аппетитная (Ганна)",
 category: "Мясные",
 image: "https://img.unistore.by/UserFiles/images/catalog/Goods/5933/00025933/norm/thumbs/00025933.n_1_450x450@2x.png",
@@ -98,7 +99,7 @@ fats: 4,
 carbs: 0,
 calories: 120
 },
-},
+{,
 name: "Деликатес от бабушки (Ганна)",
 category: "Мясные",
 image: "https://i2022.otzovik.com/2022/09/01/13747927/img/2139635_72285007.jpeg",
@@ -108,7 +109,7 @@ fats: 2,
 carbs: 0,
 calories: 130
 },
-},
+{
 name: "Карпаччо (Дзержинский мясокомбинат)",
 category: "Мясные",
 image: "https://akd.by/wp-content/uploads/2023/09/karpachcho-1.png",
