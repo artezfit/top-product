@@ -22,7 +22,7 @@ const products = [
   {
     name: "Колбаса Никольская (Славянские продукты)",
     category: "Мясные",
-    image: "../никольская.png",
+    image: "images/nikol.png",
     description: "Очень классная колбаса, вот правда найти ее сложновато. Находил в Соседях и Гиппо",
     proteins: 40,
     fats: 5,
@@ -272,8 +272,18 @@ calories: 40
 {
 name: "Заменитель сахара Стевия (таблетки, NOVASWEET)",
 category: "Сахзамы",
-image: "../стевия (таблетки).webp",
+image: "images/stevia.webp",
 description: "Добавляем туда, куда вы обычно добавляете сахар. Я покупаю на вб/озоне",
+proteins: 0,
+fats: 0,
+carbs: 0,
+calories: 0
+},
+{
+name: "Заменитель сахара Стевия (жидкий, NOVASWEET)",
+category: "Сахзамы",
+image: "https://basket-16.wbbasket.ru/vol2553/part255354/255354856/images/big/1.webp",
+description: "Добавляем туда, куда вы обычно добавляете сахар, например, в выпечку. Я покупаю на вб/озоне",
 proteins: 0,
 fats: 0,
 carbs: 0,
