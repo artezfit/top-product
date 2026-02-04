@@ -312,7 +312,7 @@ calories: 347
 {
 name: "Кокосовый батончик Fitness Shock",
 category: "Вкусняшки",
-image: "https://main-cdn.sbermegamarket.ru/big1/hlr-system/-11/474/490/414/101/822/100032055685b0.jpg",
+image: "https://cdn.lentochka.lenta.com/resample/webp/900x900/photo/629073/catalog-image/ebcfe5bc-c380-421b-9a28-dd0d6a572719.png",
 description: "Вкусный, но не белковый, на вкус 100% как баунти. Найти можно на вб/озоне",
 proteins: 3,
 fats: 15,
