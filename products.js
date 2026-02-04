@@ -42,7 +42,7 @@ const products = [
   {
 name: "Колбаса Никольская (Славянские продукты)",
 category: "Мясные",
-image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/7327/02117327/norm/02117327.n_2.png.webp",
+image: "https://www.tablicakalorijnosti.ru/file/image/foodstuff/65f1a07ec5c146ceac546e0228a78566/8ce0381aed0448bc8dece6ec131367e2",
 description: "Очень классная колбаса, вот правда найти ее сложновато. Находил в Соседях и Гиппо",
 proteins: 40,
 fats: 5,
