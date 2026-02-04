@@ -180,6 +180,16 @@ calories: 108
     calories: 289
   },
 {
+name: "Мягкий творог 5% Cream Nuvo",
+category: "Молочные",
+image: "https://dixy.ru/upload/iblock/c71/u47lsc44ip22abt5gd0nrgo2x911spom.webp",
+description: "Очень вкусный мягкий творог, который некоторым зайдет даже без ничего. Но если к нему добавить топпинг без калорий или сахзам, то получим вкусный, высокобелковый и низкоуглеводный творожок",
+proteins: 15,
+fats: 5,
+carbs: 1.5,
+calories: 111
+},
+{
 name: "Мягкий творог 0,1% (Савушкин)",
 category: "Молочные",
 image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/6433/01796433/norm/01796433.n_1.png",
@@ -248,6 +258,16 @@ proteins: 5,
 fats: 0,
 carbs: 4.5,
 calories: 38
+},
+{
+name: "Йогурт греческий 2% (Eco Greco)",
+category: "Молочные",
+image: "https://babushkina.by/wp-content/uploads/2025/04/22.jpg",
+description: "Очень вкусный йогурт, который можно использовать в качестве запраки вместо майонеза или сметаны",
+proteins: 8.5,
+fats: 2,
+carbs: 3.3,
+calories: 65
 },
 {
 name: "Йогурт греческий 2% (Teos)",
