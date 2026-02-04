@@ -122,8 +122,8 @@ calories: 130
 {
 name: "Мягкий творог 0,1% (Савушкин)",
 category: "Молочные",
-image: "https://img.vkusvill.ru/pim/images/site_LargeWebP/4f19b665-ce9a-4348-9fc5-d901338fdf81.webp",
-description: "Добавляем к нему топпинг без калорий или сахзам и получаем высокобелковый и низкоуглеводный йогурт",
+image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/6433/01796433/norm/01796433.n_1.png",
+description: "Добавляем к нему топпинг без калорий или сахзам и получаем высокобелковый и низкоуглеводный творожок",
 proteins: 10,
 fats: 0.1,
 carbs: 1,
@@ -172,7 +172,7 @@ calories: 40
 {
 name: "Заменитель сахара Стевия (таблетки, NOVASWEET)",
 category: "Сахзамы",
-image: "https://catalog.detmir.st/media/XwjC-a4Lo_zxUvZh570g6HgCrI7sGPz_lYfF2TVrwFE=",
+image: "https://www.hlebdoma.by/product/steviya-v-tabletkah-novasweet-150-tabletok_2838",
 description: "Добавляем туда, куда вы обычно добавляете сахар. Я покупаю на вб/озоне",
 proteins: 0,
 fats: 0,
@@ -182,7 +182,7 @@ calories: 0
 {
 name: "Хлебцы с белым шоколадом (Тонкий стиль)",
 category: "Вкусняшки",
-image: "https://cdn-img.perekrestok.ru/i/800x800-fit/xdelivery/files/63/aa/103ac74e8593f0e49a1caa097069.jpg",
+image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/3198/01553198/norm/01553198.n_1.png",
 description: "Мало весят, поэтому калорий получается мало. Достаточно съесть пару штучек, чтобы закрыть потребность в сладком",
 proteins: 5,
 fats: 18,
@@ -202,7 +202,7 @@ calories: 360
 {
 name: "Протеиновые батончики Fitness Shock",
 category: "Вкусняшки",
-image: "https://enzym.ru/wa-data/public/shop/products/62/43/54362/images/61089/61089.970.png",
+image: "https://vplaboutlet.by/upload/resize_cache/iblock/b79/1000_1000_1d345700f21c7b7b03bfe1e8f09e7c75b/ty8pjsov9inbr8u6h5bheax70kixrhz5.webp",
 description: "Довольно вкусные и относительно недорогие. Найти можно на вб/озоне",
 proteins: 30,
 fats: 12.9,
@@ -232,7 +232,7 @@ calories: 108
 {
 name: "Сосиски Мясные из индейки (Островецкое)",
 category: "Мясные",
-image: "https://www.tablicakalorijnosti.ru/file/image/foodstuff/2a352a4fab9d4a6095c9fb87098db072/ac2bdc857c114503863dc6f70444e45f",
+image: "https://io.activecloud.com/static-green-market/1400x1400-1493103-1705961029470.jpg?id=88821&version=1",
 description: "Найти можно в Грине, Гиппо и фирменном магазине Индюшонок",
 proteins: 10,
 fats: 5,
@@ -242,12 +242,12 @@ calories: 89
 {
 name: "Сырок глазированный 5% (Молочная страна)",
 category: "Вкусняшки",
-image: "https://www.belmilk.by/assets/resized/493-493-fit-t/uploads/catalogs/%D0%9C%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D0%B0%D1%8F%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0/vanilin-five.png",
+image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/7204/02177204/norm/02177204.n_1.png",
 description: "Если любите сырки, то попробуйте эти и сможете съедать их на 1 больше, чем любые другие (за счет меньшего количества жира). Найти можно почти в любом продуктовом",
-proteins: 13.4,
-fats: 10,
-carbs: 31.6,
-calories: 270
+proteins: 12.8,
+fats: 12.7,
+carbs: 33.2,
+calories: 300
 },
 {
 name: "Пельмени Марьино с курицей",
@@ -272,7 +272,7 @@ calories: 199.6
 {
 name: "Хлеб белковый Славянка",
 category: "Хлебобулочные",
-image: "https://www.minskhleb.by/upload/resize_cache/iblock/f37/800_600_140cd750bba9870f18aada2478b24840a/f37e6473f0bde15151f1c74947524358.jpg",
+image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/3839/01313839/norm/01313839.n_1.png",
 description: "Вкус на любителя, но если белок прям не получается добирать другими продуктами, а хлебушек любите, то попробовать можно. Найти можно в Гиппо, Белмаркете, Грине, Короне",
 proteins: 18,
 fats: 2.5,
@@ -308,15 +308,5 @@ proteins: 7,
 fats: 2,
 carbs: 4.2,
 calories: 62.8
-},
-{
-name: "Витамин D",
-category: "Витамины",
-image: "https://bodyroom.by/files/resized/products/rus_pl_ostrovit-vitamin-d3-k2-90-tabletok-16704_1.800x600w.png",
-description: "Малая дозировка, поэтому рекомендую всем, хотя в идеале, конечно, сдать анализ. Вообще, в Беларуси почти у всех недостаток витамина D. Найдете на вб/озоне по фото",
-proteins: 0,
-fats: 0,
-carbs: 0,
-calories: 0
 },
 ];
