@@ -60,6 +60,16 @@ calories: 116
   calories: 100
   },
 {
+  name: "Рулет Элитный (Галерея вкуса)",
+  category: "Мясные",
+  image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/7906/01257906/norm/01257906.n_1.png.webp",
+  description: "Вкусный, но дорогой куриный рулет. Белка немного меньше, чем в филе, а жиров – больше. Находил в грине и короне",
+  proteins: 15,
+  fats: 4,
+  carbs: 2,
+  calories: 100
+  },
+{
   name: "Куриные наггетсы в панировке (Дзержинка)",
   category: "Мясные",
   image: "https://akd.by/wp-content/uploads/2023/12/naggetsy-1.png",
