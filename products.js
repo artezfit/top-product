@@ -20,6 +20,16 @@ const products = [
     calories: 242
   },
   {
+    name: "Лососевые чипсы",
+    category: "Мясные",
+    image: "https://santacash.by/upload/iblock/dee/vj276zcyhsv1rshl150akiv1ip00tm5k.png",
+    description: "Не пробовал, но говорят, что очень вкусные",
+    proteins: 37.1,
+    fats: 22.3,
+    carbs: 0,
+    calories: 349
+  },
+  {
     name: "Кальмар сушеный",
     category: "Мясные",
     image: "https://ir.ozone.ru/s3/multimedia-h/c1000/6008034137.jpg",
