@@ -60,6 +60,26 @@ calories: 116
   calories: 100
   },
 {
+  name: "Куриные наггетсы в панировке (Дзержинка)",
+  category: "Мясные",
+  image: "https://akd.by/wp-content/uploads/2023/12/naggetsy-1.png",
+  description: "Куриное филе во вкуснейшей панировке (почти как в KFC). Находил в грине и фирменном магазине Дзержинка",
+  proteins: 12,
+  fats: 2,
+  carbs: 8,
+  calories: 130
+  },
+{
+  name: "Наггетсы из индейки в панировке (Дзержинка)",
+  category: "Мясные",
+  image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/1799/02041799/norm/02041799.n_1.png",
+  description: "Очень вкусное филе индейки во вкуснейшей панировке (почти как в KFC). Находил в грине и фирменном магазине Дзержинка",
+  proteins: 19,
+  fats: 2,
+  carbs: 7.5,
+  calories: 120
+  },
+{
   name: "Руляда с черносливом и орехами (Дзержинка)",
   category: "Мясные",
   image: "https://akd.by/wp-content/uploads/2024/04/rulyada-s-chernoslivom-i-orehami.png",
