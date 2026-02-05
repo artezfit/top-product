@@ -80,6 +80,36 @@ calories: 116
   calories: 100
   },
 {
+  name: "Ветчина Нежная с филе (Брестский мясокомбинат)",
+  category: "Мясные",
+  image: "https://brestmeat.by/upload/resize_cache/webp/iblock/cc6/91lxy523o94sowcg2ghjso46brt8d5tf.webp",
+  description: "Не пробовал, но хорошая по кбжу ветчина",
+  proteins: 14,
+  fats: 1,
+  carbs: 1,
+  calories: 75
+  },
+{
+  name: "Ветчина с сыром моцарелла (Брестский мясокомбинат)",
+  category: "Мясные",
+  image: "https://brestmeat.by/upload/resize_cache/webp/iblock/5db/s3v8skaw4otxliyram1a4bbmrko4bfan.webp",
+  description: "Не пробовал, но хорошая по кбжу ветчина",
+  proteins: 15,
+  fats: 3,
+  carbs: 2,
+  calories: 90
+  },
+{
+  name: "Колбаса вареная Мусульманская (Слуцкий мясокомбинат)",
+  category: "Мясные",
+  image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/4805/02084805/norm/02084805.n_1.png.webp",
+  description: "Не пробовал, но неплохая по составу и кбжу. Есть на едоставке",
+  proteins: 13,
+  fats: 7,
+  carbs: 1.5,
+  calories: 120
+  },
+{
   name: "Куриные наггетсы в панировке (Дзержинка)",
   category: "Мясные",
   image: "https://akd.by/wp-content/uploads/2023/12/naggetsy-1.png",
@@ -158,6 +188,16 @@ proteins: 10,
 fats: 5,
 carbs: 1,
 calories: 89
+},
+  {
+name: "Сосиски Мусульманские (Слуцкий мясокомбинат)",
+category: "Мясные",
+image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/4803/02084803/norm/02084803.n_2.png",
+description: "Не пробовал, но более-менее по составу и кбжу. Есть на едоставке",
+proteins: 13,
+fats: 7,
+carbs: 1.5,
+calories: 120
 },
 {
 name: "Пельмени Марьино с курицей",
