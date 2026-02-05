@@ -312,7 +312,7 @@ calories: 45
 {
 name: "Творог от Exponenta",
 category: "Молочные",
-image: "https://io.activecloud.com/static-green-market/1400x1400-1587729-1736637879652.png",
+image: "https://exponenta.by/upload/iblock/fd7/fd77b06d3dea4a1a3548d5be7ce0cf33.png",
 description: "Зайдет тем, кто не может есть творог без ничего",
 proteins: 16,
 fats: 2,
