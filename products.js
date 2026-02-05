@@ -1,7 +1,7 @@
 const products = [
   {
     name: "Мясные чипсы (Галерея вкуса)",
-    category: "Мясные",
+    category: "Для перекуса",
     image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/1966/00871966/norm/00871966.n_1.png",
     description: "Полезный и вкусный перекус. Найти можно почти в любом продуктовом",
     proteins: 55,
@@ -11,7 +11,7 @@ const products = [
   },
   {
     name: "Мясные чипсы JerFood",
-    category: "Мясные",
+    category: "Для перекуса",
     image: "https://imgproxy.kuper.ru/imgproxy/size-500-500/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzQwMjY4NDI3L29yaWdpbmFsLzIvMjAyNC0xMS0yNiUyMDE1JTNBMTMlM0E1Ni44MTg0NzklMkIwMCUzQTAwLzQwMjY4NDI3XzIuanBn.jpg",
     description: "Ну ооочень вкусные кусочки филе в соусе Терияки. Находил в Грине",
     proteins: 50,
@@ -21,7 +21,7 @@ const products = [
   },
   {
     name: "Лососевые чипсы",
-    category: "Мясные",
+    category: "Для перекуса",
     image: "https://santacash.by/upload/iblock/dee/vj276zcyhsv1rshl150akiv1ip00tm5k.png",
     description: "Не пробовал, но говорят, что очень вкусные",
     proteins: 37.1,
@@ -31,7 +31,7 @@ const products = [
   },
   {
     name: "Кальмар сушеный",
-    category: "Мясные",
+    category: "Для перекуса",
     image: "https://ir.ozone.ru/s3/multimedia-h/c1000/6008034137.jpg",
     description: "Под фильм очень классно: много белка, долго можно есть. Лучше брать на развес – так дешевле. Больше 50 грамм за раз не надо, а то проснетесь с отеками",
     proteins: 62,
