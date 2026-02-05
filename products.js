@@ -260,6 +260,16 @@ carbs: 33.2,
 calories: 300
 },
 {
+name: "Молочный протеиновый коктейль (Рогачев)",
+category: "Молочные",
+image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/6241/02186241/norm/02186241.n_1.png",
+description: "Для тех, кому не нравится экспонента на вкус. Тут есть чуток жиров, чуть больше углеводов, но и на вкус приятнее. Находил в короне и грине",
+proteins: 10,
+fats: 2.5,
+carbs: 5.9,
+calories: 85
+},
+{
 name: "Exponenta High-Pro (напиток)",
 category: "Молочные",
 image: "https://exponenta.by/upload/iblock/b37/b3723738c22e7232b2ad652dc4968768.png",
