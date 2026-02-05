@@ -20,6 +20,16 @@ const products = [
     calories: 242
   },
   {
+    name: "Кальмар сушеный",
+    category: "Мясные",
+    image: "https://ir.ozone.ru/s3/multimedia-h/c1000/6008034137.jpg",
+    description: "Под фильм очень классно: много белка, долго можно есть. Лучше брать на развес – так дешевле. Больше 50 грамм за раз не надо, а то проснетесь с отеками",
+    proteins: 62,
+    fats: 2,
+    carbs: 5,
+    calories: 286
+  },
+  {
     name: "Колбаса Никольская (Славянские продукты)",
     category: "Мясные",
     image: "images/nikol.png",
