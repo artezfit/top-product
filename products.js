@@ -259,6 +259,26 @@ calories: 108
     carbs: 0,
     calories: 289
   },
+ {
+    name: "Сыр от Exponenta",
+    category: "Сыры",
+    image: "https://bellaktshop.by/images/cache/_thumb_1000x1090xin_upload_iblock_a80_r104m9363f6qq9ytv4w9ra5dyvakwcxz_paprika.png",
+    description: "По большей части маркетинг. Обычный вкусный сыр с уменьшенным содержанием жира. Из плюсов – безлактозный. Найти можно почти в любом продуктовом. Уступает по кбжу Легкому от Молочного мира",
+    proteins: 30,
+    fats: 19,
+    carbs: 0,
+    calories: 290
+  },
+ {
+    name: "Мягкий сыр Адыгейский легкий",
+    category: "Сыры",
+    image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/1176/00981176/norm/00981176.n_2.png",
+    description: "Вкусный, но сильно рассыпчатый сыр. Очень много белка и мало жира. Находил в грине и короне",
+    proteins: 25.9,
+    fats: 3.7,
+    carbs: 1.4,
+    calories: 143
+  },
 {
 name: "Мягкий творог 5% Cream Nuvo",
 category: "Молочные",
@@ -278,6 +298,16 @@ proteins: 10,
 fats: 0.1,
 carbs: 1,
 calories: 45
+},
+{
+name: "Творог от Exponenta",
+category: "Молочные",
+image: "https://io.activecloud.com/static-green-market/1400x1400-1587729-1736637879652.png",
+description: "Зайдет тем, кто не может есть творог без ничего",
+proteins: 16,
+fats: 2,
+carbs: 0,
+calories: 70
 },
 {
 name: "Сырок протеиновый (Молочный мир)",
