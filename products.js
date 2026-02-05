@@ -290,6 +290,16 @@ carbs: 6.8,
 calories: 151
 },
 {
+name: "Сырки творожные (Савушкин)",
+category: "Вкусняшки",
+image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/4240/02194240/norm/02194240.n_1.png?s=1000x1000",
+description: "Вкусные. Мне зашли",
+proteins: 9.6,
+fats: 9,
+carbs: 17.7,
+calories: 190
+},
+{
 name: "Сырок глазированный 5% (Молочная страна)",
 category: "Вкусняшки",
 image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/7204/02177204/norm/02177204.n_1.png",
