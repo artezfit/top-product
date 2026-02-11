@@ -380,6 +380,16 @@ carbs: 33.2,
 calories: 300
 },
 {
+name: "Конфеты Коровка (Красный мозырянин)",
+category: "Вкусняшки",
+image: "https://korovka.by/wp-content/uploads/2024/01/photo1706596122-1.jpeg",
+description: "В отличие от большинства конфет, тут мало жиров, но с углеводами все равно нужно осторожно, чтобы не переборщить. Покупаю на вб",
+proteins: 2.5,
+fats: 4.0,
+carbs: 81,
+calories: 370
+},
+{
 name: "Молочный протеиновый коктейль (Рогачев)",
 category: "Молочные",
 image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/6241/02186241/norm/02186241.n_1.png",
