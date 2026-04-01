@@ -128,6 +128,7 @@ calories: 116
   fats: 5,
   carbs: 4.5,
   calories: 150
+  isNew: true
   },
 {
   name: "Куриные наггетсы в панировке (Дзержинка)",
@@ -158,6 +159,7 @@ calories: 116
   fats: 4.5,
   carbs: 24,
   calories: 160
+  isNew: true
   },
 {
   name: "Руляда с черносливом и орехами (Дзержинка)",
@@ -378,6 +380,7 @@ proteins: 12,
 fats: 3.5,
 carbs: 30,
 calories: 200
+isNew: true
 },
 {
 name: "Блинчики с вишней (Бабушка Аня)",
@@ -388,6 +391,7 @@ proteins: 3.5,
 fats: 3,
 carbs: 34,
 calories: 180
+isNew: true
 },
 {
 name: "Сырок-пирожное в глазури Genetika (Беллакт)",
@@ -398,6 +402,7 @@ proteins: 5.7,
 fats: 12.3,
 carbs: 29.3,
 calories: 251
+isNew: true
 },
 {
 name: "Сырок протеиновый (Молочный мир)",
@@ -418,6 +423,7 @@ proteins: 14,
 fats: 5,
 carbs: 19,
 calories: 180
+isNew: true
 },
 {
 name: "Сырки творожные (Савушкин)",
@@ -458,6 +464,7 @@ proteins: 9,
 fats: 0.15,
 carbs: 4.8,
 calories: 57
+isNew: true
 },
 {
 name: "Молочный протеиновый коктейль (Рогачев)",
@@ -468,6 +475,7 @@ proteins: 10,
 fats: 2.5,
 carbs: 5.9,
 calories: 85
+isNew: true
 },
 {
 name: "Exponenta High-Pro (напиток)",
@@ -488,6 +496,16 @@ proteins: 12.5,
 fats: 0,
 carbs: 3,
 calories: 62
+},
+{
+name: "Exponenta Norm-Pro",
+category: "Молочные",
+image: "https://exponenta.by/upload/iblock/03b/03b7fdfe57492a57987ba525dc1a0c8b.png",
+description: "Самая выгодная экспонента, если рассчитать стоимость 1 грамма белка. Больше объема, поэтому, если вы на дефиците калорий, то лучше брать ее. Найти можно почти в любом продуктовом",
+proteins: 6,
+fats: 0,
+carbs: 3,
+calories: 36
 },
 {
 name: "Exponenta Bio-Skyr",
