@@ -153,7 +153,7 @@ calories: 116
 {
   name: "Блинчики с птицей (Бабушка Аня)",
   category: "Мясные",
-  image: "https://akd.by/wp-content/uploads/2024/04/rulyada-s-chernoslivom-i-orehami.png",
+  image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/2331/00912331/norm/00912331.n_1.png.webp",
   description: "Когда не хватает времени на готовку – закинул в микроволновку на 2-3 минуты и можно есть. Не идеально, конечно, но иногда есть можно. Находил в Евроопте и Грине",
   proteins: 6,
   fats: 4.5,
