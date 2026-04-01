@@ -1,7 +1,10 @@
 function createCard(product) {
   return `
     <div class="card">
-      <img src="${product.image}" alt="${product.name}">
+      <div class="image-wrapper">
+  ${product.isNew ? '<div class="badge">Добавлено недавно</div>' : ''}
+  <img src="${product.image}" alt="${product.name}">
+</div>
       <div class="card-body">
         <h3>${product.name}</h3>
         <div class="nutrients">
