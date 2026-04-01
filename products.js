@@ -120,6 +120,16 @@ calories: 116
   calories: 120
   },
 {
+  name: "Куриные наггетсы в панировке (Соседи)",
+  category: "Мясные",
+  image: "https://sosedi.by/upload/resize_cache/iblock/a5f/275_275_1/1da53h08jp1a3s3z6jiak17ns9doauv0.jpg",
+  description: "Наггетсы № 1 по моему мнению, так как очень вкусная панировка и лично у меня не прилипают к грилю (может за счет панировки). Находил в Соседях",
+  proteins: 22,
+  fats: 5,
+  carbs: 4.5,
+  calories: 150
+  },
+{
   name: "Куриные наггетсы в панировке (Дзержинка)",
   category: "Мясные",
   image: "https://akd.by/wp-content/uploads/2023/12/naggetsy-1.png",
@@ -138,6 +148,16 @@ calories: 116
   fats: 2,
   carbs: 7.5,
   calories: 120
+  },
+{
+  name: "Блинчики с птицей (Бабушка Аня)",
+  category: "Мясные",
+  image: "https://akd.by/wp-content/uploads/2024/04/rulyada-s-chernoslivom-i-orehami.png",
+  description: "Когда не хватает времени на готовку – закинул в микроволновку на 2-3 минуты и можно есть. Не идеально, конечно, но иногда есть можно. Находил в Евроопте и Грине",
+  proteins: 6,
+  fats: 4.5,
+  carbs: 24,
+  calories: 160
   },
 {
   name: "Руляда с черносливом и орехами (Дзержинка)",
@@ -350,14 +370,54 @@ carbs: 1.5,
 calories: 71
 },
 {
+name: "Сырники замороженные (Бабушка Аня)",
+category: "Вкусняшки",
+image: "https://static.insales-cdn.com/r/FcTD90ufGpI/rs:fit:1000:1000:1/plain/images/products/1/7194/834903066/%D0%A1%D1%8B%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D0%91%D0%B0%D0%B1%D1%83%D1%88%D0%BA%D0%B0_%D0%90%D0%BD%D1%8F_%D0%A2%D0%B2%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8B%D0%B5_430%D0%B3._%D0%A1%D0%B0%D0%BD%D1%82%D0%B0_%D0%91%D1%80%D0%B5%D0%BC%D0%BE%D1%80.jpg@jpg",
+description: "Очень вкусные маленькие сырники с хорошим составом. Находил в Грине, Короне и Евроопте",
+proteins: 12,
+fats: 3.5,
+carbs: 30,
+calories: 200
+},
+{
+name: "Блинчики с вишней (Бабушка Аня)",
+category: "Вкусняшки",
+image: "https://app.willesden.by/images/4810168049966.jpg",
+description: "Выручают, когда вам некогда готовить, но хочется чего-то вкусненького к чаю/кофе. В микроволновку на 2-3 минуты и можно есть. Калорий не много. Один блинчик весит 60 грамм (всего их 6 в упаковке). Найти можно почти в любом продуктовом",
+proteins: 3.5,
+fats: 3,
+carbs: 34,
+calories: 180
+},
+{
+name: "Сырок-пирожное в глазури Genetika (Беллакт)",
+category: "Вкусняшки",
+image: "https://www.bellakt.com/upload/iblock/3c9/kur3weg61z1ik841xp8yk7v0hchwcbin/%D0%BF%D0%B8%D1%80%D0%BE%D0%B6%D0%BD%D0%BE%D0%B5_GENETIKA_60%D0%B3_%D0%B2%D0%B0%D0%BD%D0%B8%D0%BB%D1%8C_%D0%B8%D1%82%D0%BE%D0%B3_3%D0%B4_%D0%B4%D0%BB%D0%B8%D0%BD%D0%BD%D0%B5%D0%B5%20(2).png",
+description: "Меньше жира, чем в среднестатических глазированных сырках. На вкус не идеально, но пойдет. Найти можно почти в любом продуктовом",
+proteins: 5.7,
+fats: 12.3,
+carbs: 29.3,
+calories: 251
+},
+{
 name: "Сырок протеиновый (Молочный мир)",
 category: "Вкусняшки",
 image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/5814/02165814/norm/02165814.n_1.png",
-description: "Мне прям зашел. Да, нет глазури, но довольно вкусный и недорогой в пересчете на 1 грамм белка",
+description: "Мне прям зашел. Да, нет глазури, но довольно вкусный и недорогой в пересчете на 1 грамм белка. Найти можно почти в любом продуктовом",
 proteins: 20,
 fats: 5,
 carbs: 6.8,
 calories: 151
+},
+{
+name: "Сырок творожный (Молочный мир)",
+category: "Вкусняшки",
+image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/0499/00920499/norm/00920499.n_1.png.webp",
+description: "Мой фаворит из таких вот протеиновых сырков. Да, белка не так много, как в предыдущим варианте, и углеводов побольше, однако он и намного вкуснее. Находил в Короне, Грине и Евроопте",
+proteins: 14,
+fats: 5,
+carbs: 19,
+calories: 180
 },
 {
 name: "Сырки творожные (Савушкин)",
@@ -390,6 +450,16 @@ carbs: 81,
 calories: 370
 },
 {
+name: "Молочный протеиновый напиток Teos Pro",
+category: "Молочные",
+image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/8211/02228211/norm/02228211.n_2.png",
+description: "На мой взгляд, самый вкусный протеиновый напиток. Предпочитаю ванильный вкус, так как шоколадный и клубничный какие-то химозные, мне не зашли. Найти можно почти в любом продуктовом",
+proteins: 9,
+fats: 0.15,
+carbs: 4.8,
+calories: 57
+},
+{
 name: "Молочный протеиновый коктейль (Рогачев)",
 category: "Молочные",
 image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/6241/02186241/norm/02186241.n_1.png",
@@ -412,7 +482,7 @@ calories: 60
 {
 name: "Exponenta High-Pro (творожок)",
 category: "Молочные",
-image: "https://exponenta.by/upload/iblock/9b8/9b8b4207dd54ae50b188c21bdf037e04.png",
+image: "https://irecommend.ru/sites/default/files/product-images/2946145/SZAJsxhqpdFGX0LqVLoF9g.png",
 description: "Отличный способ добирать белок. Раньше есть было невозможно – был ужасный на вкус, но они поменяли рецептуру и сейчас это топовый неприторный йогурт",
 proteins: 12.5,
 fats: 0,
