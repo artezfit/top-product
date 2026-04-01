@@ -127,7 +127,7 @@ calories: 116
   proteins: 22,
   fats: 5,
   carbs: 4.5,
-  calories: 150
+  calories: 150,
   isNew: true
   },
 {
@@ -158,7 +158,7 @@ calories: 116
   proteins: 6,
   fats: 4.5,
   carbs: 24,
-  calories: 160
+  calories: 160,
   isNew: true
   },
 {
@@ -379,7 +379,7 @@ description: "Очень вкусные маленькие сырники с х�
 proteins: 12,
 fats: 3.5,
 carbs: 30,
-calories: 200
+calories: 200,
 isNew: true
 },
 {
@@ -390,7 +390,7 @@ description: "Выручают, когда вам некогда готовит�
 proteins: 3.5,
 fats: 3,
 carbs: 34,
-calories: 180
+calories: 180,
 isNew: true
 },
 {
@@ -401,7 +401,7 @@ description: "Меньше жира, чем в среднестатически�
 proteins: 5.7,
 fats: 12.3,
 carbs: 29.3,
-calories: 251
+calories: 251,
 isNew: true
 },
 {
@@ -422,7 +422,7 @@ description: "Мой фаворит из таких вот протеиновы�
 proteins: 14,
 fats: 5,
 carbs: 19,
-calories: 180
+calories: 180,
 isNew: true
 },
 {
@@ -463,7 +463,7 @@ description: "На мой взгляд, самый вкусный протеин
 proteins: 9,
 fats: 0.15,
 carbs: 4.8,
-calories: 57
+calories: 57,
 isNew: true
 },
 {
@@ -474,7 +474,7 @@ description: "Для тех, кому не нравится экспонента
 proteins: 10,
 fats: 2.5,
 carbs: 5.9,
-calories: 85
+calories: 85,
 isNew: true
 },
 {
