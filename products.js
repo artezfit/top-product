@@ -83,7 +83,7 @@ calories: 116
   {
 name: "Ветчина (Галерея вкуса)",
 category: "Мясные",
-image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/3906/02243906/norm/02243906.n_1.png,
+image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/3906/02243906/norm/02243906.n_1.png",
 description: "Очень вкусная белковая ветчина с хорошим составом, но дороговатая. Находил в Грине",
 proteins: 20,
 fats: 5,
