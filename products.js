@@ -245,7 +245,7 @@ calories: 130
 {
 name: "Карпаччо из свиной вырезки (Петруха)",
 category: "Мясные",
-image: "https://akd.by/wp-content/uploads/2023/09/karpachcho-1.png",
+image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/9428/02169428/norm/02169428.n_1.png",
 description: "Для тех, кто устал от курицы",
 proteins: 23,
 fats: 10,
