@@ -222,6 +222,17 @@ carbs: 0,
 calories: 130
 },
 {
+name: "Филе в желе (Ганна)",
+category: "Мясные",
+image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/1482/01191482/norm/01191482.n_1.png.webp",
+description: "Для тех, кто не любит холодец – тут желе искуственное, как и в мармеладе, то есть за основу взят желатин. Находил в Грине, Короне и Евроопте",
+proteins: 11,
+fats: 6.5,
+carbs: 0,
+calories: 103,
+isNew: true
+},
+{
 name: "Карпаччо (Дзержинский мясокомбинат)",
 category: "Мясные",
 image: "https://akd.by/wp-content/uploads/2023/09/karpachcho-1.png",
@@ -492,6 +503,39 @@ proteins: 2.5,
 fats: 4.0,
 carbs: 81,
 calories: 370
+},
+{
+name: "Конфеты Цитрон (Коммунарка)",
+category: "Вкусняшки",
+image: "https://ir.ozone.ru/s3/multimedia-r/w500/6854624343.jpg",
+description: "Не прям вау, но если прям очень хочется именно шоколадных конфет, то лучше взять их. Находил в Короне на развес и в Евроопте в упаковке 200 грамм",
+proteins: 1,
+fats: 7.5,
+carbs: 81,
+calories: 400,
+isNew: true
+},
+{
+name: "Конфеты Столичные Элит",
+category: "Вкусняшки",
+image: "https://ir.ozone.ru/s3/multimedia-r/w500/6854624343.jpg",
+description: "Если хочется конкретно шоколадные конфет, то лучше взять их – меньше жиров и углеводов, чем во многих шоколадных конфетах. Найти можно почти в любом продуктовом",
+proteins: 3.4,
+fats: 14.2,
+carbs: 69,
+calories: 417,
+isNew: true
+},
+{
+name: "Батончик MilkyWay",
+category: "Вкусняшки",
+image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/4432/00064432/norm/00064432.n_1.png.webp",
+description: "Если выбираете между шоколадными батончиками, то лучше взять этот – в нем меньше жира. Найти можно почти в любом продуктовом",
+proteins: 2.6,
+fats: 16.8,
+carbs: 72.4,
+calories: 453,
+isNew: true
 },
 {
 name: "Молочный протеиновый напиток Teos Pro",
