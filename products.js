@@ -384,6 +384,17 @@ calories: 104
     carbs: 1.4,
     calories: 143
   },
+ {
+    name: "Сыр творожный экстрамягкий (Bonfesto)",
+    category: "Сыры",
+    image: "https://bonfesto.by/wp-content/uploads/2022/12/bonfesto_cream_cheese_extrasoft_front.png",
+    description: "Добавляю во все, что только можно. Найти можно почти в любом продуктовом",
+    proteins: 4.5,
+    fats: 19,
+    carbs: 0,
+    calories: 190,
+    isNew: true
+  },
 {
 name: "Мягкий творог 5% Cream Nuvo",
 category: "Молочные",
