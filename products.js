@@ -495,6 +495,17 @@ carbs: 33.2,
 calories: 300
 },
 {
+name: "Сырок глазированный 12% (Клецкая крыначка)",
+category: "Вкусняшки",
+image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/4395/01804395/norm/01804395.n_1.png.webp",
+description: "Очень вкусный сырок с относительно небольшим процентом жира. Другие вкусы жирнее. Найти можно почти в любом продуктовом",
+proteins: 12.6,
+fats: 17.3,
+carbs: 34.9,
+calories: 350,
+isNew: true
+},
+{
 name: "Молочный протеиновый напиток Teos Pro",
 category: "Молочные",
 image: "https://cdn.ime.by/UserFiles/images/catalog/Goods/8211/02228211/norm/02228211.n_2.png",
